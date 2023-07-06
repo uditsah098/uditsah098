@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops, Python**
 
-- 💬 Ask me about **Linux, Java, Bashscripting**
+- 💬 Ask me about **linux, java , bashscript, sql, c, html, css,**
 
 - 📫 How to reach me **uditsah098@gmail.com**
 
