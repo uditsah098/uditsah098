@@ -5,11 +5,14 @@
 
 - 🌱 I’m currently learning **Devops, Python**
 
-- 💬 Ask me about **linux, java , bashscript, sql, c, html, css,**
+- 💬 Ask me about **Linux Java C Sql Cloud Bash Script
+Git Github Networking Ansible Terraform
+Oops Html Css Owasp Nmap
+Penetration Tester**
 
 - 📫 How to reach me **uditsah098@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 </p>
 
