@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Devops, Python**
 
-- 💬 Ask me about **Linux Java C Sql Cloud Bash Script
-Git Github Networking Ansible Terraform
-Oops Html Css Owasp Nmap
+- 💬 Ask me about **Linux, Java, C, Sql, Cloud, Bash Script,
+Git, Github, Networking, Ansible, Terraform,
+Oops, Html, Css, Owasp, Nmap,
 Penetration Tester**
 
 - 📫 How to reach me **uditsah098@gmail.com**
